@@ -9,7 +9,7 @@ A short full-stack application for managing shop products using Spring Boot and 
 ## Setup
 
 ### Backend
-1. Configure `application.properties` to your SQL connection
+1. Configure the `application.properties` file with your SQL Server connection details
 2. run the application
 
 ### Frontend
