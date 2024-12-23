@@ -1,0 +1,22 @@
+.MuiTableCell-root {
+    line-height: 0 !important;
+    padding: 6px 16px !important;
+}
+
+.RaImageField-image {
+    margin: 0.25rem !important;
+    width: 113px !important;
+    height: 100px !important;
+    object-fit: contain !important;
+}
+
+.MuiTableCell-root {
+    text-align: center !important;
+}
+
+.RaImageField-image {
+    margin: 0 auto !important;
+}
+
+
+
